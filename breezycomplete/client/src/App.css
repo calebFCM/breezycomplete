@@ -59,6 +59,8 @@ textarea:focus {
 }
 .navbar-brand img {
   width: 60%;
+  min-width: 100px;
+  min-height: 100px;
 }
 .input-group {
   height: 50px;
@@ -109,8 +111,8 @@ textarea:focus {
   margin: 0 !important;
 }
 .dropdown-menu a:hover {
-  background-color: #1cb803 !important;
-  color: #ffffff !important;
+  background-color: #eee !important;
+  color: #180a09 !important;
 }
 .mobile-header {
   display: none;
@@ -142,7 +144,7 @@ textarea:focus {
 
 .sidebar_item ul li a {
   font-size: 16px;
-  color: #000000;
+  color: #180a09;
   line-height: 45px;
   display: block;
   font-family: "Open Sans", sans-serif;
@@ -327,7 +329,7 @@ textarea:focus {
 }
 .product-count .flex-box span {
   font-weight: 600;
-  color: #000000;
+  color: #180a09;
 }
 .product-count .flex-box select {
   background-color: #f3f3f3;
@@ -339,7 +341,7 @@ textarea:focus {
 }
 .round-black-btn {
   border-radius: 4px;
-  background: #000000;
+  background: #180a09;
   color: #fff;
   width: 100%;
   height: 50px;
@@ -351,7 +353,7 @@ textarea:focus {
 }
 .round-black-btn:hover,
 .round-black-btn:focus {
-  background: #1cb803;
+  background: #444;
 }
 
 /* LOGIN */
@@ -384,7 +386,7 @@ textarea:focus {
   margin-top: 20px;
   padding: 20px 0;
   border: 0;
-  background-color: #d4ae37;
+  background-color: #180a09;
   border-radius: 5px;
   text-transform: uppercase;
   color: white;
@@ -469,7 +471,7 @@ textarea:focus {
   margin-top: 20px;
   text-transform: uppercase;
   font-size: 13px;
-  background-color: #1cb803;
+  background-color: #180a09;
   color: #ffffff;
 }
 /* orders */
@@ -549,7 +551,7 @@ textarea:focus {
 }
 .total .total-price {
   font-size: 20px;
-  color: #000000;
+  color: #180a09;
   font-weight: bold;
 }
 .cart-buttons {
@@ -562,11 +564,11 @@ textarea:focus {
   border: 0px;
   text-transform: uppercase;
   font-size: 13px;
-  background-color: #1cb803;
+  background-color: #180a09;
   color: #ffffff;
 }
 .cart-buttons a:nth-child(1) button {
-  background-color: #000000;
+  background-color: #180a09;
 }
 /* FOOTER */
 .footer {
@@ -639,7 +641,7 @@ textarea:focus {
   border: 0px;
   text-transform: uppercase;
   font-size: 13px;
-  background-color: #1cb803;
+  background-color: #180a09;
   color: #ffffff;
 }
 
