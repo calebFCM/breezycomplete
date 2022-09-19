@@ -61,25 +61,25 @@ const Header = () => {
         </button>
         <ul className="nav">
           <li className="nav-item">
-            <Link className={`nav-link btn-icon `} title="Dark mode" to="#">
+            {/* <Link className={`nav-link btn-icon `} title="Dark mode" to="#">
               <i className="fas fa-moon"></i>
-            </Link>
+            </Link> */}
           </li>
           <li className="nav-item">
             <Link className="nav-link btn-icon" to="#">
               <i className="fas fa-bell"></i>
             </Link>
           </li>
-          <li className="nav-item">
+          {/* <li className="nav-item">
             <Link className="nav-link" to="#">
               English
             </Link>
-          </li>
+          </li> */}
           <li className="dropdown nav-item">
             <Link className="dropdown-toggle" data-bs-toggle="dropdown" to="#">
               <img
                 className="img-xs rounded-circle"
-                src="/images/favicon.png"
+                src="/images/breezy.png"
                 alt="User"
               />
             </Link>

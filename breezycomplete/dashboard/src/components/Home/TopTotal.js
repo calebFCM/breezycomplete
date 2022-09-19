@@ -14,11 +14,11 @@ const TopTotal = (props) => {
         <div className="card card-body mb-4 shadow-sm">
           <article className="icontext">
             <span className="icon icon-sm rounded-circle alert-primary">
-              <i className="text-primary fas fa-usd-circle"></i>
+              <i class="fa fa-registered" aria-hidden="true"></i>
             </span>
             <div className="text">
               <h6 className="mb-1">Total Sales</h6>{" "}
-              <span>${totalSale.toFixed(0)}</span>
+              <span>R{totalSale.toFixed(0)}</span>
             </div>
           </article>
         </div>
