@@ -201,7 +201,7 @@ textarea:focus {
 /* NEWSLATTER */
 .subscribe-section {
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.226), rgba(0, 0, 0, 0.226)),
-    url("https://sasshoes-com.s3.us-west-2.amazonaws.com/img/banner-uplift-21.jpg")
+    url("https://www.ottena.co.uk/pub/media/wysiwyg/teak-patio-garden-set.jpg")
       no-repeat scroll center / cover;
   padding: 100px 0 100px;
 }
@@ -573,13 +573,14 @@ textarea:focus {
 /* FOOTER */
 .footer {
   background-color: #ececec;
-}
+}sub
 .card-name {
   width: 4%;
   margin: 10px;
 }
 .card-name img {
   width: 100%;
+  padding: 10px;
   height: 50px;
   object-fit: contain;
 }
