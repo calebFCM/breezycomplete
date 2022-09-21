@@ -25,8 +25,8 @@ a.disabled {
   pointer-events: none;
 }
 .btn-primary {
-  background-color: #d4ae36 !important;
-  border: 1px solid #d4ae36 !important;
+  background-color: #3f3d56 !important;
+  border: 1px solid #3f3d56 !important;
 }
 .btn-danger {
   color: #fff;
@@ -324,15 +324,15 @@ body.aside-mini .menu-aside .menu-item.has-submenu .menu-link:after {
   font-size: 18px;
 }
 .menu-aside .active .icon {
-  color: #d4ae36;
+  color: #BF9C88;
 }
 .menu-aside .active {
   background-color: #fef6e9;
 }
 .menu-aside .menu-link {
   padding: 10px;
-  color: #29335d;
-  font-weight: bold;
+  color: #555e76;
+  font-weight: 555;
   border-radius: 0.3rem;
   position: relative;
   overflow: hidden;
@@ -538,7 +538,7 @@ a.itemside:hover .title {
 .card-user .card-header {
   position: relative;
   height: 100px;
-  background-color: #c3f19d !important;
+  background-color: #fef6e9 !important;
   text-align: center;
 }
 .card-user .img-avatar {

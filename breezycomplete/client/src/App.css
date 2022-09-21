@@ -84,7 +84,7 @@ textarea:focus {
   margin-right: 0rem;
 }
 .badge {
-  background-color: red;
+  background-color: #a37d25;
   position: absolute;
   top: -20px;
   border-radius: 100px;
@@ -653,5 +653,20 @@ textarea:focus {
 }
 .page-item.active .page-link {
   background-color: black;
-  border: 1px solid black;
+  border
+  : 1px solid black;
+}
+
+
+/*LATEST CHANGES*/
+.alert-info {
+  color: #744830;
+  background-color: #fef6e9;
+  border-color: #fef6e9;
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #907a54;
+  border-color: #907a54;
 }
