@@ -27,8 +27,8 @@
 
 5.  # SERVER .ENV
 
-    PORT = 5000
-    NODE_ENV = development
-    JWT_SECRET = breezyworld
-    PAYPAL_CLIENT_ID = 
-    MONGO_URL = mongodb+srv://codemen:breezy@breezyworld.juubzwm.mongodb.net/?retryWrites=true&w=majority
+    PORT =
+    NODE_ENV
+    JWT_SECRET
+    PAYPAL_CLIENT_ID
+    MONGO_URL
