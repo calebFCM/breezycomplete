@@ -15,12 +15,15 @@ import PlaceOrderScreen from "./screens/PlaceOrderScreen";
 import OrderScreen from "./screens/OrderScreen";
 import NotFound from "./screens/NotFound";
 import PrivateRouter from "./PrivateRouter";
+import Hero from "./components/homeComponents/Hero";
 
 const App = () => {
   return (
     <Router>
       <Switch>
+
         <Route path="/" component={HomeScreen} exact />
+        <Route path="/" component={Hero} exact />
         <Route path="/search/:keyword" component={HomeScreen} exact />
         <Route path="/page/:pagenumber" component={HomeScreen} exact />
         <Route
