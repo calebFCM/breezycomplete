@@ -1,64 +1,65 @@
 const products = [
   {
-    name: "Wooden Table Set",
-    image: "/images/Wooden-table-set.jpeg",
+    name: "Dining Room Set",
+    image: "/images/dining.png",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-    price: 89,
+    price: 4000,
     countInStock: 3,
     rating: 4,
     numReviews: 4,
   },
   {
-    name: "Living Room Table",
-    image: "/images/LivingRoom-Table.jpeg",
+    name: "Black Wooden Kitchen Set",
+    image: "/images/Kitchen.png",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-    price: 599,
+    price: 2500,
     countInStock: 10,
     rating: 2,
     numReviews: 2,
   },
   {
-    name: "Dinning Room Table",
-    image: "/images/DinningRoom-table.jpeg",
+    name: "Outdoor Table Set",
+    image: "/images/Outdoor.png",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-    price: 929,
+    price: 1600,
     countInStock: 0,
     rating: 3.5,
     numReviews: 3,
   },
   {
-    name: "Living Room Set (White)",
-    image: "/images/LivingRoom-Set.jpeg",
+    name: "Wooden Cupboard",
+    image: "/images/cupboards.png",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-    price: 399,
+    price: 3500,
     countInStock: 10,
     rating: 5,
     numReviews: 9,
   },
   {
-    name: "Living Room Table (Glass Top)",
-    image: "/images/LivingRoom-table2.jpeg",
+    name: "Modern Cafe Set",
+    image: "/images/mordern_cafe.png",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-    price: 49,
+    price: 6500,
     countInStock: 7,
     rating: 2,
     numReviews: 2,
   },
   {
-    name: "Kitchen Set",
-    image: "/images/Kitchen-Set1.jpeg",
+    name: "Office Table",
+    image: "/images/office.png",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-    price: 29,
-    countInStock: 0,
+    price: 800,
+    countInStock: 1,
     rating: 0,
     numReviews: 0,
   },
 ];
 
 export default products;
+
